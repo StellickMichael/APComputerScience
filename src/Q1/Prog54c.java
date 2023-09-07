@@ -5,6 +5,6 @@ public class Prog54c {
         double constant = 3.14159;
         double radius = 3.712;
         double circumference = 2 * radius;
-
+        double area = constant * radius%2;
     }
 }
