@@ -28,9 +28,10 @@ public class Prog88a {
         } else {
             min = num1;
         }
-
         System.out.println("Original numbers are " + num1 + " and " + num2);
 
+        System.out.println("Sum = " + sum);
+        System.out.println("Difference = " + dif);
         System.out.println("Maximum = " + max);
         System.out.println("Minimum = " + min);
     }
